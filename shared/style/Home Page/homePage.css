@@ -1,0 +1,41 @@
+#pageHeading{
+    height: 847px;
+    background-color: #F1F1F1;
+}
+#topHeader{
+    width: 900px;
+    height: 113px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+#logoGroup{
+    display: flex;
+    justify-content: space-between;
+    height: 59px;
+    border-bottom: 1px solid #E3E3E3;
+}
+#logoGroup2{
+    display: flex;
+    width: 185px;
+    height: 34px;
+}
+#logoGroup2 img{
+    width: 31px;
+    height: 15px;
+}
+#logoGroup2 h1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#logGroup1 img{
+    width: 15px;
+    height: 15px;
+}
+#logoGroup3{
+    display: flex;
+}
+#logoGroup3 img{
+    width: 20px;
+    height: 20px;
+    margin-left: 40px;
+}

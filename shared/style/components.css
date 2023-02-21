@@ -1,0 +1,37 @@
+.ws-input {
+  width: 264px;
+  height: 18px;
+  border: black solid 1px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  padding: 12.5px 17px;
+  /**font settings*/
+  font-family: montserrat;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.ws-button {
+  width: 298px;
+  height: 43px;
+  margin-top: 23px;
+  margin-bottom: 8px;
+  background-color: #FFFFFF;
+  color: #FFD130;
+  text-transform: uppercase;
+  -webkit-text-stroke: 0.7px black;
+  font-weight: bold;
+  font-size: 20px; 
+  border-radius: 4px;
+}
+
+.ws-hiperLink {
+  height: 20px;
+  margin-top: 12px;
+  
+}
+.ws-hiperLink a{
+  color: black;
+  font-family: monospace;
+  font-size: 16px;
+}
